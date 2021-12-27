@@ -1,0 +1,39 @@
+.logo{
+    width:300px;
+    margin: 10px 0px;
+    
+}
+.header{
+    width:100%;
+
+    background:white
+}
+.customNavBar{
+    width:100%;
+}
+.custom-ul{
+    flex-direction: row;
+}
+.custom-nav-item{
+    transition:  1s;
+
+}
+.custom-nav-item:hover{
+    background-color:rgb(143, 143, 143);
+    padding:0px 10px;
+    border-radius: 5px;
+    
+}
+.navBar{
+    display:block;
+    background-color:black;
+    text-align: left;
+    position: fixed;
+    top:0;
+    width:100%;
+}
+
+
+.search-box{
+    background-color: rgb(38, 33, 33);
+}

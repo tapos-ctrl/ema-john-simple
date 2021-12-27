@@ -1,0 +1,8 @@
+.shop{
+    display:flex;
+}
+.product-details{
+    border-left:2px solid rgb(172, 172, 172);
+    height:100%;
+    margin-top:1vw;
+}

@@ -1,0 +1,53 @@
+.custom-name p{
+    font-size: 1.5vw;
+    margin-top: 2vw;
+    margin-left:1vw;
+    color:blue
+}
+.product-img{
+    padding: 2vw 0vw;
+
+}
+.custom-product {
+    border-bottom:2px solid rgb(191, 191, 191);
+    margin:10px;
+}
+.customBox{
+    margin-top:200px;
+    
+}
+.custom-btn{
+    padding:.2vw 3vw;
+    margin-left: 1vw;
+    background:rgba(233, 182, 16, 0.809);
+    font-size:1vw;
+    border:1px solid rgb(118, 118, 118);
+    outline:none;
+    border-radius:.2vw;
+    
+}
+@media (min-width: 576px) {
+    /* .custom-name{
+        width:100%
+    } */
+    
+ }
+
+
+@media (min-width: 768px) {
+
+ }
+
+@media (min-width: 992px) { 
+
+ }
+
+
+@media (min-width: 1200px) { 
+    
+ }
+
+
+@media (min-width: 1400px) {
+
+ }
